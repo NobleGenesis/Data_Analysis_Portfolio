@@ -211,6 +211,9 @@ This would help determine whether Lagos offers the strongest **long-term growth 
 
 * [ZoomRide Setup SQL](zoomride_setup.sql)
 * [ZoomRide Analysis SQL](zoomride_analysis.sql)
+* [Revenue by city](revenue_by_city.png)
+* [Revenue by vehicle type](revenue_by_vehicle-type.png)
+* [vehicle type preference by city](vehicle-type_preference_by_city.png)
 * [README](README.md)
 
 ---

@@ -29,7 +29,7 @@ key business metrics, trends, and performance indicators.
 * Key performance indicators (KPIs)
 * Business performance insights
 
-➡️ **[View Project](afrimar-dashboard-genesisamaha)**
+➡️ **[View Project](afrimart-dashboard-genesisamaha)**
 
 ### 2. 🚕 ZoomRide SQL Analysis
 

@@ -29,7 +29,15 @@ key business metrics, trends, and performance indicators.
 * Key performance indicators (KPIs)
 * Business performance insights
 
-➡️ **[View Project](afrimart-dashboard-genesisamaha)**
+➡️ **[View Project](afrimar-dashboard-genesisamaha)**
+
+### 2. 🚕 ZoomRide SQL Analysis
+
+**Focus:** The analysis focuses on trip activity, revenue, city performance, vehicle type usage, customer activity, monthly             trends, and data quality.
+**Tool:** SQL (MySQL)
+ZoomRide is a ride-hailing company operating across six African cities. This project uses MySQL to analyze customer, driver, and trip data and turn the raw records into practical business insights.
+
+➡️ **[View Project](zoomride-sql-analysis)**
 
 ---
 
@@ -76,7 +84,7 @@ Data-Analysis-Portfolio/
 │   ├── README.md
 │   └── ...
 │
-├── [Future Project]/
+├── [zoomride-sql-analysis/
 │   ├── README.md
 │   └── ...
 │

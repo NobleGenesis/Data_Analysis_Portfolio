@@ -147,14 +147,23 @@ The city names were normalized so that city-level results would be grouped corre
 Lagos generated the highest revenue among the six cities analyzed.
 
 +---------------+-------------+-----------+--------------+
+
 | city          | total_trips | revenue   | average_fare |
+
 +---------------+-------------+-----------+--------------+
+
 | Lagos         |          91 | 218890.00 |      2405.38 |
+
 | Accra         |          33 |  92640.00 |      2807.27 |
+
 | Abuja         |          36 |  88720.00 |      2464.44 |
+
 | Port Harcourt |          30 |  71240.00 |      2374.67 |
+
 | Nairobi       |          31 |  58960.00 |      1901.94 |
+
 | Kampala       |          18 |  38020.00 |      2112.22 |
+
 +---------------+-------------+-----------+--------------+
 
 Lagos stands out not only because of its revenue, but also because of its significantly higher completed-trip volume.
@@ -163,11 +172,17 @@ Lagos stands out not only because of its revenue, but also because of its signif
 
 ### 🚗 Revenue by Vehicle Type
 +--------------+-------------+-----------+
+
 | vehicle_type | total_trips | revenue   |
+
 +--------------+-------------+-----------+
+
 | Economy      |         121 | 262550.00 |
+
 | Comfort      |          76 | 239050.00 |
+
 | Bike         |          51 |  66870.00 |
+
 +--------------+-------------+-----------+
 
 Economy recorded the highest trip volume and generated the highest total revenue among the three vehicle types.
@@ -179,24 +194,43 @@ Economy recorded the highest trip volume and generated the highest total revenue
 To understand demand more closely, I analyzed vehicle-type usage at the city level.
 
 +---------------+--------------+-------------+
+
 | city          | vehicle_type | total_trips |
+
 +---------------+--------------+-------------+
+
 | Abuja         | Economy      |          16 |
+
 | Abuja         | Comfort      |          12 |
+
 | Abuja         | Bike         |          12 |
+
 | Accra         | Comfort      |          30 |
+
 | Accra         | Economy      |          14 |
+
 | Kampala       | Bike         |          16 |
+
 | Kampala       | Economy      |          15 |
+
 | Lagos         | Economy      |          67 |
+
 | Lagos         | Comfort      |          23 |
+
 | Lagos         | Bike         |          15 |
+
 | Nairobi       | Economy      |          18 |
+
 | Nairobi       | Bike         |          11 |
+
 | Nairobi       | Comfort      |           9 |
+
 | Port Harcourt | Comfort      |          15 |
+
 | Port Harcourt | Economy      |          13 |
+
 | Port Harcourt | Bike         |          12 |
+
 +---------------+--------------+-------------+
 
 The results show that vehicle preferences are not the same across all markets.
@@ -242,8 +276,8 @@ This would help determine whether Lagos offers the strongest **long-term growth 
 
 ## 📁 Files in Repository
 
-* [ZoomRide Setup SQL](sql/zoomride_setup.sql)
-* [ZoomRide Analysis SQL](sql/zoomride_analysis.sql)
+* [ZoomRide Setup SQL](zoomride_setup.sql)
+* [ZoomRide Analysis SQL](zoomride_analysis.sql)
 * [README](README.md)
 
 ---

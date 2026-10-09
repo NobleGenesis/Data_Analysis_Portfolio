@@ -24,8 +24,7 @@ customer, driver, and trip data and turn the raw records into practical business
 The analysis focuses on **trip activity, revenue, city performance, vehicle type usage, customer activity, monthly 
 trends, and data quality**.
 
-The dataset was deliberately designed with real-world-style inconsistencies, making data validation and cleaning an 
-important part of the analysis.
+The dataset contains many inconsistencies, so data validation and cleaning are key parts of the analysis.
 
 Rather than simply querying the data, the project follows a practical analysis process:
 

@@ -163,3 +163,9 @@ Data Appended
 1,225 Final Transactions
       ↓
 Dashboard Refreshed
+
+---
+
+**Built by Amaha Genesis Igbang** | Data Analyst
+
+**LinkedIn:** [Amaha Genesis](https://www.linkedin.com/in/genesisamaha)  | **Email:** [official.amahagenesis@gmail.com](mailto:official.amahagenesis@gmail.com)

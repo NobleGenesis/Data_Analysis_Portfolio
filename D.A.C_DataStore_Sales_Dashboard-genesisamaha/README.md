@@ -158,7 +158,7 @@ Compare any two periods chosen with the **Period A** and **Period B** slicers.
 
 ### 5️⃣ Customer Order Details
 
-![Customer Order Details](imahes/05_customer_order_details.png)
+![Customer Order Details](images/05_customer_order_details.png)
 
 - 🔎 Filters: Product, Date, Customer, Promotion
 - 💰 KPI cards: Total Orders, Total Sales, Total Profit, Total Discount, Total Net Sales

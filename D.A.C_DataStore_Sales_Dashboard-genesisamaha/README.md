@@ -261,4 +261,4 @@ The main findings are that **Electronics drives nearly three-quarters of revenue
 
 **Built by Amaha Genesis Igbang** | Data Analyst
 
-<!-- **LinkedIn:** [Amaha Genesis](linkedin.com/in/genesisamaha)  | **email:** [official.amahagenesis@gmail.com](mailto:official.amahagenesis@gmail.com) -->
+**LinkedIn:** [Amaha Genesis](linkedin.com/in/genesisamaha)  | **Email:** [official.amahagenesis@gmail.com](mailto:official.amahagenesis@gmail.com)

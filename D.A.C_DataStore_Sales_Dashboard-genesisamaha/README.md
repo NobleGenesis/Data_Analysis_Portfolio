@@ -104,7 +104,7 @@ The model follows a **star schema**: one fact table connected to dimension table
 
 **Key DAX measures:** Total Net Sales, Total Profit, Total Quantity Sold, Sales / Profit / Quantity for Period A and Period B, Difference, and Change %.
 
-![Data Model](images/data_model.png)
+![Data Model](data_model.png)
 
 ---
 
@@ -114,7 +114,7 @@ The report has five pages, navigated from a fixed left-hand menu.
 
 ### 1️⃣ Executive Summary
 
-![Executive Summary](images/01_executive_summary.png)
+![Executive Summary](01_executive_summary.png)
 
 A one-page overview of the business.
 
@@ -127,7 +127,7 @@ A one-page overview of the business.
 
 ### 2️⃣ Market Overview
 
-![Market Overview](images/02_market_overview.png)
+![Market Overview](02_market_overview.png)
 
 Where and what customers buy.
 
@@ -140,14 +140,14 @@ Where and what customers buy.
 
 ### 3️⃣ Product Performance
 
-![Product Performance](images/03_product_performance.png)
+![Product Performance](03_product_performance.png)
 
 - 🥇 Top 5 products by Sales, Profit and Quantity
 - 🔻 Bottom 5 products by Sales, Profit and Quantity
 
 ### 4️⃣ Period Comparison
 
-![Period Comparison](images/04_period_comparison.png)
+![Period Comparison](04_period_comparison.png)
 
 Compare any two periods chosen with the **Period A** and **Period B** slicers.
 
@@ -158,7 +158,7 @@ Compare any two periods chosen with the **Period A** and **Period B** slicers.
 
 ### 5️⃣ Customer Order Details
 
-![Customer Order Details](images/05_customer_order_details.png)
+![Customer Order Details](05_customer_order_details.png)
 
 - 🔎 Filters: Product, Date, Customer, Promotion
 - 💰 KPI cards: Total Orders, Total Sales, Total Profit, Total Discount, Total Net Sales
@@ -191,7 +191,7 @@ Users can filter the dashboard by:
 ### 📈 Trends
 
 - 📅 Yearly net sales: 31.4M (2020), 30.0M (2021), 28.6M (2022) and 32.3M (2023). After two years of decline, **2023 grew 12.8%**.
-- 🍂 **October and November** are the strongest months, delivering 20% of sales in two months. December, April and May are the weakest.
+- 🍂 **October and November** are the strongest months, delivering 20% of sales in two months. December, March, April and May are the weakest.
 - 📆 Tuesday is the strongest day of the week (17% of sales) and Saturday the weakest (12%).
 
 ### 🔁 Period Comparison (2022 vs 2023)
@@ -243,7 +243,8 @@ Users can filter the dashboard by:
 
 ## 📁 Files in Repository
 
-- [Power BI Dashboard](Sales.pbix)
+- [Power BI Dashboard](D.A.C_DataStore_Sales_Dashboard.pbix)
+- [Dataset](D.A.C_DataStore_Sale_Dataset.xlsx)
 - [Business Requirement Brief](D-A-C_STORE_BUSINESS_REQUIREMENT.pdf)
 - [Dashboard Screenshots](images/)
 - [README](README.md)
@@ -260,4 +261,4 @@ The main findings are that **Electronics drives nearly three-quarters of revenue
 
 **Built by Amaha Genesis Igbang** | Data Analyst
 
-<!-- Add your LinkedIn / email links here -->
+<!-- **LinkedIn:** [Amaha Genesis](linkedin.com/in/genesisamaha)  | **email:** [official.amahagenesis@gmail.com](mailto:official.amahagenesis@gmail.com) -->

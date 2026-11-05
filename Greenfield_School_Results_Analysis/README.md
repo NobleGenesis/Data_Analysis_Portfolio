@@ -274,4 +274,4 @@ The overall picture is encouraging: every class and every subject improved from 
 
 **Built by Amaha Genesis Igbang** | Data Analyst
 
-<!-- Add your LinkedIn / email links here -->
+**LinkedIn:** [Amaha Genesis](https://www.linkedin.com/in/genesisamaha)  | **Email:** [official.amahagenesis@gmail.com](mailto:official.amahagenesis@gmail.com)
